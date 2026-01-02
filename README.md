@@ -1,4 +1,4 @@
-## Gerador de codinome Fortinite
+## Gerador de codinome Fortnite
 
 Aplicação WinForms feita com .NET 10/C# 14 para gerar convites informais de partidas para meu amigo [Thiago Vilasboas](https://github.com/vilasboas). <br/>
 Piada interna entre amigos, não leve a sério...
