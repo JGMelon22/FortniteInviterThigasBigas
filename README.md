@@ -1,8 +1,7 @@
-\## Gerador de codinome Fortinite
+## Gerador de codinome Fortinite
 
-Aplicação WinForms feita com .NET 10/C# 14 para gerar convites informais de partidas para meu amigo \[Thiago Vilasboas](https://github.com/vilasboas). Piada interna entre amigos, não leve a sério...
-
-
+Aplicação WinForms feita com .NET 10/C# 14 para gerar convites informais de partidas para meu amigo [Thiago Vilasboas](https://github.com/vilasboas). <br/>
+Piada interna entre amigos, não leve a sério...
 
 <p align="left">
 
@@ -11,4 +10,3 @@ Aplicação WinForms feita com .NET 10/C# 14 para gerar convites informais de pa
 &nbsp; <img src="https://i.imgur.com/3zr0cj6.png" width="25%" />
 
 </p>
-
